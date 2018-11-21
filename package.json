@@ -1,0 +1,23 @@
+{
+  "name": "notes-app",
+  "version": "1.0.0",
+  "description": "",
+  "main": "app.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/panther97/notes-app.git"
+  },
+  "author": "Sahil Lamba",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/panther97/notes-app/issues"
+  },
+  "homepage": "https://github.com/panther97/notes-app#readme",
+  "dependencies": {
+    "lodash": "^4.17.11",
+    "yargs": "^4.7.1"
+  }
+}
